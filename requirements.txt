@@ -1,8 +1,9 @@
 streamlit
-pandas
 openai
 langchain
+langchain-experimental
 faiss-cpu
+pandas
 plotly
 matplotlib
-scikit-learn
+toml
